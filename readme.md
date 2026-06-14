@@ -136,14 +136,24 @@ The following analyses were performed:
 ### Univariate Analysis
 
 * Numerical feature distributions
+![Numerical feature distributions](images/numerical_feature_distributions.png)
+
 * Boxplot-based outlier analysis
+![Boxplot-based outlier analysis](images/outlier_analysis.png)
+
 * Categorical feature distributions
+![Categorical feature distributions](images/categorical_feature_distributions.png)
 
 ### Bivariate Analysis
 
 * Numerical features vs Target
+![Numerical features vs Target](images/numerical_features_vs_target.png)
+
 * Categorical features vs Target
+![Categorical features vs Target](images/categorical_features_vs_target.png)
+
 * Correlation analysis
+![Correlation analysis](images/correlation_analysis.png)
 
 ### Key Findings
 
@@ -302,7 +312,7 @@ health-risk-classification-insurance/
 ├── Health_Risk_Classification.ipynb
 ├── Health_Risk_Classification_Report.pdf
 ├── dataset/
-│   └── Healthcare_Data_Preprocessed_FIXED.csv
+│   └── Healthcare_Data_Preprocessed.csv
 │
 ├── images/
 │   ├── numerical_distributions.png
